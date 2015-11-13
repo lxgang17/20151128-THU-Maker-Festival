@@ -1,4 +1,4 @@
-##活动背景（background）  
+##一，活动背景（background）  
 
 ###全国创新创业创客教育
 
@@ -8,7 +8,7 @@
 - 智能交通  
 - 现状：三者串联还不够  
 
-##主题与目标（Theme and objectives）
+##二，主题与目标（Theme and objectives）
 
 ###关键词 Keywords
 - 融合"Funsion" 我们的目标是将创客文化、开源运动、慕课资源及分布式组织融合到我们的正式的学历教育体系之中。Our objective is to fuse Hacker Culture, Open Source Movement, MOOC resources, and Distributed Organizations to our formal, degreed education system.  
@@ -27,7 +27,7 @@
 - 以智能城市为主题，展现嵌入式系统、机器人与智能交通运输系统，做出一个沙盘  
 - 避免形成一般创客日活动摆地摊的感觉  
 
-##活动设计（activities）  
+##三，活动设计（activities）  
 
 ###Macro-scopic 宏观层次：  
 - General description 概述: Intelligent Transport System, Smart Cities 智慧交通系统，智慧城市  
@@ -46,7 +46,7 @@
 - General description 概述: sensor/actuator/embedded system 感应器/促动器/嵌入式系统  
 - Content1 内容1：Microduino  
  
-##资源匹配（resource planning）  
+##四，资源匹配（resource planning）  
 
 ###王德宇老师
 - 可提供的内容
