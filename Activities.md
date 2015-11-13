@@ -4,7 +4,7 @@
  - 嵌入式系统（智能硬件）  
  - 机器人  
  - 智能交通  
- - 现状：这三个东西还没有能够串起来，和其他系也没有关系，和学校打破学科边界的目标无关  
+ - 现状：三者串联还不够  
 
 ##主题与目标（Theme and objectives）
 - 关键词 Keywords
@@ -24,17 +24,14 @@
 ##活动设计（activities）  
 - Macro-scopic 宏观层次：
  - General description 概述: Intelligent Transport System, Smart Cities 智慧交通系统，智慧城市
- - Content 内容：
- 1. Woody 王德宇老师：以实体沙盘为主题，表现一个自动运输的交通系统
+ - Content 1 内容1：Woody 王德宇老师：Design of a reconfigurable intelligent system sandbox， including a model manufacturing base, a car assembly line, an unmanned transportation system 以实体沙盘为主题，表现一个自动运输的交通系统
 - Meso-scopic 介观层次：
  - General description 概述: 多系统积木，展现各种机器人和构筑物
- - Content 内容：
- 1. Hu 胡厚士老师：仿生机器人
- 2. Yu 郁汉琪老师（南京工程学院）：涡轮机
+ - Content1 内容1：Hu 胡厚士老师：仿生机器人
+ - Content2 内容2：Yu 郁汉琪老师（南京工程学院）：涡轮机
 - Micro-scopic 微观层次：
  - General description 概述: sensor/actuator/embedded system 感应器/促动器/嵌入式系统
- - Content 内容：
- 1. Microduino
+ - Content1 内容1：Microduino
  
 ##资源匹配（resource planning）  
 - 胡厚士老师
