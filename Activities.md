@@ -41,6 +41,7 @@
 - General description 概述: 多系统积木，展现各种机器人和构筑物  
 - Content1 内容1：Hu 胡厚士老师：仿生机器人  
 - Content2 内容2：Yu 郁汉琪老师（南京工程学院）：涡轮机  
+![image](https://github.com/lxgang17/20151128-THU-Maker-Festival/blob/master/Turbine%20motor%20by%20Nanjing%20school%20of%20engineering%20%E5%8D%97%E4%BA%AC%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2%E6%B6%A1%E8%BD%AE%E6%9C%BA.JPG)
 
 ###Micro-scopic 微观层次：  
 - General description 概述: sensor/actuator/embedded system 感应器/促动器/嵌入式系统  
